@@ -26,18 +26,20 @@ portfolio-website/
 │── index.html
 │── style.css
 │── script.js
-│── assets/
+
 
 Deployment
 
 The project is deployed using GitHub Pages.
 
-Live Link: [Add your hosted link here]
+Live Link: https://vajrapu-rutvika.github.io/Portfolio-Website/
 
 Repository
 
-Source Code: [Add your GitHub repo link here]
+Source Code: https://github.com/Vajrapu-Rutvika/Portfolio-Website.git
 
 Author
 
-Developed by [Your Name]
+Developed by Vajrapu Rutvika
+Candidate ID: BS/REG/121063
+Domain: Frontend Developer Intern
